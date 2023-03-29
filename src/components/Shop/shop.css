@@ -10,3 +10,14 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+
+.cart-summery {
+    background-color: #FFE0B3;
+    padding: 10px;
+    height: 500px;
+    border: 0;
+    border-radius: 8px;
+    margin-top: 60px;
+
+    
+}
